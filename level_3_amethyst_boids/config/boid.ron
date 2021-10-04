@@ -1,0 +1,18 @@
+(
+    boid_count: 85,
+    boid_size: 8.0,
+
+    velocity_min: 100.0,
+    velocity_max: 200.0,
+
+    acceleration_max: 1000.0,
+
+    attraction_radius: 100.0,
+    attraction_factor: 4.0,
+    
+    repulsion_radius: 20.0,
+    repulsion_factor: 100.0,
+    
+    alignment_radius: 100.0,
+    alignment_factor: 0
+)

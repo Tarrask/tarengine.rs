@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "level_2_amethyst_pong"
+		},
+		{
+			"path": "level_3_amethyst_boids"
+		},
+		{
+			"path": "level_4_godot_pong"
+		},
+		{
+			"path": "level_5_bevy_pong"
+		},
+		{
+			"path": "level_6_bevy_boids"
+		},
+		{
+			"path": "level_7_bevy_breakout"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

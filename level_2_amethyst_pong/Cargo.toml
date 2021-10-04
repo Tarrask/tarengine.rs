@@ -1,0 +1,15 @@
+[package]
+name = "pong"
+version = "0.1.0"
+authors = ["Damien Plumettaz <damien.plumettaz@bluewin.ch>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+log = { version = "0.4.8", features = ["max_level_debug", "release_max_level_warn"] }
+fern = { version = "0.6.0", features = ["colored"] }
+
+[dependencies.amethyst]
+version = "0.15"
+features = ["vulkan"]

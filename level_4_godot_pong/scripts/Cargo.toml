@@ -1,0 +1,11 @@
+[package]
+name = "level_4_godot_pong"
+version = "0.1.0"
+authors = ["Damien Plumettaz <damien.plumettaz@bluewin.ch>"]
+edition = "2018"
+
+[dependencies]
+gdnative = "0.9.3"
+
+[lib]
+crate-type = ["cdylib"]

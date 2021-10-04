@@ -1,0 +1,4 @@
+(
+    title: "Rustoid!",
+    dimensions: Some((800, 600))
+)
